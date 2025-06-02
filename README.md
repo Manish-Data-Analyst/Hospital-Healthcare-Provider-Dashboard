@@ -13,5 +13,7 @@ I'm excited to share a comprehensive healthcare analytics dashboard I recently b
 
 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘃𝗶𝗲𝘄 𝗺𝘆 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗰𝗹𝗶𝗰𝗸 𝗵𝗲𝗿𝗲: https://lnkd.in/gPDQYRkB
 <br>
+
 **Dashboard Image**
+
 <img src="https://github.com/Manish-Data-Analyst/Hospital-Healthcare-Provider-Dashboard/blob/79cdd32cf3284c0d63d3ea435ec21fde8a7c710d/Screenshot%202025-05-30%20175248.png" alt="Image Discription" width="600">
