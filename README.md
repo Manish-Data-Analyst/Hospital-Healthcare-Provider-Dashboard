@@ -5,9 +5,13 @@ I'm excited to share a comprehensive healthcare analytics dashboard I recently b
 𝗞𝗲𝘆 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 
  ✅ Patient Flow Analysis by gender, age, and day of visit
+ <br>
  ✅ Admission Status and average wait times
+ <br>
  ✅ Consulting Time Monitoring (on-time vs delayed)
+ <br>
  ✅ Doctor Overview with profile visuals
+ <br>
  ✅ Clean, intuitive, and interactive monthly filters
 
 
